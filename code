@@ -39,7 +39,7 @@ pipeline {
                 success{
                     mail to:"janghudhruv@gmail.com",
                     subject:"Security scan",
-                    body:"Security scan completed"}
+                    body:"Security scan is now completed"}
             }
         }
 
