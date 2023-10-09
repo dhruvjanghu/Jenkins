@@ -21,7 +21,7 @@ pipeline {
                 success{
                     mail to:"janghudhruv@gmail.com",
                     subject:"Integration Test",
-                    body:"Integration Test completed"}
+                    body:"Integration Test is now completed"}
             }
         }
 
